@@ -1,0 +1,7 @@
+Trabalho de Web feito com o intuito de ser um jogo, onde o mario precisa pular os canos que vem em sua direção.
+Para isso, utilizei o css para deixar tudo bem estruturado, no seu tamanho certo, nas suas posicões certas.
+O Java Script eu utilizei para fazer o script mesmo, o pulo, quando o jogo acaba, o loop, a troca de imagens etc.
+O site é sim responsivo, testado utilizando o F12 no google.
+Códigos usados para esse projeto se encontram nas pastas com seus respectivos nomes(css,js)
+E as imagens usadas estao na pasta "Imagens"
+BOM JOGO!!!!

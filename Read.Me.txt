@@ -4,4 +4,5 @@ O Java Script eu utilizei para fazer o script mesmo, o pulo, quando o jogo acaba
 O site é sim responsivo, testado utilizando o F12 no google.
 Códigos usados para esse projeto se encontram nas pastas com seus respectivos nomes(css,js)
 E as imagens usadas estao na pasta "Imagens"
+Quando o Mario morre, a imagem do mario morrendo nao aparece devido a um erro de upar o site no github.
 BOM JOGO!!!!
